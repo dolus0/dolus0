@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dolus</h1>
 <h3 align="center">I'm a german/rusian dev.</h3>
 
-- 🌱 I’m currently learning **Python, Rust (to interact with other humans)**
+- 🌱 I’m currently learning **Python, Rust (,to interact with other humans)**
 
 - 📫 How to reach me **dolushax@gmail.com**
 
